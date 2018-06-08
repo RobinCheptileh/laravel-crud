@@ -1,0 +1,32 @@
+body {
+    font-family: Roboto, sans-serif !important;
+}
+
+i {
+    vertical-align: middle;
+}
+
+form .material-icons {
+    font-size: 20px !important;
+}
+
+input {
+    font-weight: 400;
+}
+
+.form-wrap {
+    margin-top: 100px;
+}
+
+.form-wrap h2, #projects h3 {
+    font-weight: 100;
+    margin: 30px;
+}
+
+#login-form {
+    padding: 16px;
+}
+
+#projects {
+    padding-top: 30px;
+}
